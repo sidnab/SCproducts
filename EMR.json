@@ -1,6 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
-    "Description": "AWS Service Catalog: EMR Reference Architecture(fdp-1oc5f3ulf).",
+    "Description": "RIV 2022 demo: EMR Reference Architecture(fdp-1oc5f3ulf).",
     "Metadata": {
         "AWS::CloudFormation::Interface": {
             "ParameterGroups": [
